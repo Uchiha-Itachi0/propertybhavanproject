@@ -43,8 +43,9 @@ const NavbarStyled = styled.nav`
 
       .toggle_item{
         position: absolute;
+        width: 50vw;
         top: 200%;
-        left: -50%; 
+        left: -40vw; 
         display: flex;
         flex-direction: column;
         gap: 2em;
@@ -66,10 +67,11 @@ const NavbarStyled = styled.nav`
           position: absolute;
           width: 0;
           height: 0;
-          border-left: 5vw solid transparent;
-          border-right: 5vw solid transparent;
-          border-bottom: 5vw solid #9277FB;
+          border-left: 3vw solid transparent;
+          border-right: 3vw solid transparent;
+          border-bottom: 3vw solid #9277FB;
           top: -5%;
+          left: 80%;
           z-index: 2;
         }
         
