@@ -65,6 +65,7 @@ const FooterCardStyle = styled.div`
     button{
       display: inline-block;
       width: 100%;
+      cursor: pointer;
     }
   }
   

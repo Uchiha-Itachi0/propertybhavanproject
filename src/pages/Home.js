@@ -101,6 +101,7 @@ const HomeStyle = styled.div`
             display: flex;
             align-items: center;
             justify-content: center;
+            cursor: pointer;
             svg{
               width: 4.5vw;
               height: 4.5vw;

@@ -14,6 +14,10 @@ const NearbyCardStyle = styled.div`
   color: #fff;
   gap: 1em;
   font-size: max(1em, 1vw);
+  
+  &:hover{
+    background: #9277FB;
+  }
 
   svg{
     width: 5vw;
