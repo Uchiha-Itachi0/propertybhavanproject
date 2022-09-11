@@ -67,9 +67,9 @@ const HomeStyle = styled.div`
           justify-content: center;
           align-items: center;
           gap: 2em;
-          cursor: pointer;
           
           .button1, .button2, .button3{
+            cursor: pointer;
             svg{
               width: 5vw;
               height: 5vw;
